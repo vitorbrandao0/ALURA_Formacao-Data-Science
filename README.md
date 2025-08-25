@@ -10,4 +10,11 @@ Códigos de todos os cursos realizados na formação em Data Science, através d
     - Trabalhe com estruturas de dados
     - Relacione as estruturas da linguagem de programação à construção de projetos
 
-# 2) 
+# 2) Python para Data Science: trabalhando com funções, estruturas de dados e exceções
+    - Entenda as funções das bibliotecas e pacotes na linguagem Python
+    - Conheça as built-in functions e suas utilidades
+    - Crie funções personalizadas
+    - Trabalhe com estruturas de dados compostas e aninhadas
+    - Construa listas e dicionários seguindo padrões por meio de list e dict comprehension
+    - Diferencie os tipos de erros e exceções em códigos Python
+    - Trate erros e comportamentos indesejados em seu código
