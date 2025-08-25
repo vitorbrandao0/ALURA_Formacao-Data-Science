@@ -1,5 +1,5 @@
 # ALURA_Formacao-Data-Science
-Códigos de todos os cursos realizados na formação em Data Science, através da plataforma Alura.
+Códigos de todos os cursos realizados na formação em Data Science, através da plataforma Alura. Cada item abaixo descreve os cursos e suas atividades.
 
 # 1) Python para Data Science: Primeiros Passos
     - Entenda comandos básicos da linguagem Python
